@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jonathancklee1, currently a university student, studying web development as a side project to my degree. I'm a total beginner to front-end, with general knowledge on programming from school.
+- 👋 Hi, I’m @jonathancklee1, currently a university student, studying web development as a side project to my degree.
 - 👀 I’m interested in learning front-end web development and hoping to pursue this as my career.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on nothing yet :)
+- 🌱 I’m currently learning HTML, CSS and Javscript.
 - 📫 How to reach me Email me at jonathancklee@gmail.com
 
 <!---
