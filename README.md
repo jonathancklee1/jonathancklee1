@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jonathancklee1, currently a university student, studying web development as a side project to my degree.
+- 👋 Hi, I’m Jonathan! I'm currently a university student studying web development as a side project to my degree.
 - 👀 I’m interested in learning front-end web development and hoping to pursue this as my career.
-- 🌱 I’m currently learning HTML, CSS and Javscript.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
 - 📫 How to reach me Email me at: jonathancklee@gmail.com
 
 <!---
