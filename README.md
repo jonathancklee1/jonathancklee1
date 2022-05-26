@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jonathan! I'm currently a university student studying web development as a side project to my degree.
-- 👀 I’m interested in learning front-end web development and hoping to pursue this as my career.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
-- 📫 How to reach me Email me at: jonathancklee@gmail.com
+- 👋 Hi, I’m Jonathan! I'm a recent graduate from the University of New South Wales, who is passionate about improving my web development skills.
+- 👀 I’m interested in creating interesting, funtional and creative websites that can help solve issues or create value for personal needs.
+- 🌱 I’m currently learning React and interested in expanding my knowledge further.
+- 📫 How to reach me. You can email me at: jonathancklee@gmail.com or connect via (LinkedIn)[https://www.linkedin.com/in/jonathan-lee-97bbb9207/]
 
 <!---
 jonathancklee1/jonathancklee1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
